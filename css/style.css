@@ -308,6 +308,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 .slider .visible{
     display: inline-block;
 }
+.slider ul li:nth-of-type(3){
+	margin-left: 125px;
+	margin-top: 60px;
+}
 
 #section1 div.col:last-of-type{
     float:right;
